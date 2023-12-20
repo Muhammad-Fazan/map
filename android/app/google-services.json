@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277672881416",
+    "project_id": "gomap-405205",
+    "storage_bucket": "gomap-405205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277672881416:android:288eb0e50a259f9da990bd",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_lIBTR5r1Q_8j4oHo-V-YUPivlnyHKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
